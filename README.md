@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @abhitasharma07
+- 👋 Hi, I’m Abhita
 - 👀 I’m interested in git learning
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 abhitasharma07/abhitasharma07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
